@@ -1,0 +1,52 @@
+
+.main_box {
+    width: 100%;
+}
+.fb_logo {
+    height: 50px;
+    width: 260px;
+    margin-top: 200px;
+    margin-left: 200px;
+
+}
+
+
+.logo_block {
+    position: absolute;
+    left:20px;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-weight:normal;
+    color: #1c1e21
+    
+    
+}
+
+.logo_text {
+    position: relative;
+    left:200px;
+    margin-top: -5px;
+   
+    
+}
+
+.info{
+    margin:15px;
+}
+
+.authorization {
+
+    position: absolute;
+    left:55%;
+    background-color:saddlebrown;
+    top:30%;
+    
+
+}
+
+
+
+
